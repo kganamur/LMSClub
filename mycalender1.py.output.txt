@@ -1,0 +1,26 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/kgana/AppData/Local/Programs/Python/Python38/mycalander1.py
+--------------------------------------------
+Day	Time		Subject
+--------------------------------------------
+Monday	9:10-10:15 AM.	Language Arts
+	10:35-11:40 AM.	Social Studies
+	12:10-1:15 PM.	Science
+
+Tuesday	9:10-10:15 AM.	Math
+	10:35-11:40 AM.	Orchestra
+	12:10-!:15 PM.	Physical Fitness
+
+Wednesday 9:10-9:30 AM.	 Homeroom
+
+Thursday 9:10-10:15 AM.	Language Arts
+	10:35-11:40 AM.	Social Studies
+	12:10-1:15 PM.	Science
+
+Friday	9:10-10:15 AM.	Math
+	10:35-11:40 AM.	Orchestra
+	12:10-!:15 PM.	Physical Fitness
+--------------------------------------------
+>>> 
